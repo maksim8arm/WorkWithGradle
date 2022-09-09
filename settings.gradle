@@ -1,0 +1,6 @@
+rootProject.name = 'task_gradle_moudules'
+
+include 'db'
+include 'service'
+include 'api'
+
